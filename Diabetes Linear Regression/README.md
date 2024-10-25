@@ -26,7 +26,7 @@ No pre-processing was performed on the dataset.
 
 ## Tools and Tech Used
 
-Thi project is written in Python in a Jupyter Notebook.
+This project is written in Python in a Jupyter Notebook.
 
 ## Findings
 
