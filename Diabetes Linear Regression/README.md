@@ -15,7 +15,7 @@ The columns in the dataset included:
 - BloodPressure: Diastolic blood pressure (mm Hg)
 - SkinThickness: Triceps skin fold thickness (mm)
 - Insulin: 2-hour serum insulin (mu U/ml)
-- BMI: Mody mass index (weight in kg / (height in m)^2)
+- BMI: Body mass index (weight in kg / (height in m)^2)
 - DiabetesPedigreeFunction: Probability of diabetes based on family history
 - Age: Age in years
 - Outcome: Presence of diabetes (0 or 1)
