@@ -42,4 +42,4 @@ Excel was used for the pre-processing of the dataset.
 
 ## Findings
 
-From performing operations on this dataset, I have found that the random forest model used is very innacurate, with an accuracy score of 0.0002. This model is essentially useless for predicting house prices based on the information in the dataset. This could potentially be improved if all of the dataset could be used but that was not possible in my case. Due to the format of the results, I was unable to display the confusion matrix or provide values for precision, recall, specificity or f1.
+From performing operations on this dataset, I have found that the random forest model used is very innacurate, with an accuracy score of 0.0003. This model is essentially useless for predicting house prices based on the information in the dataset. This could potentially be improved if all of the dataset could be used but that was not possible in my case. Due to the format of the results, I was unable to display the confusion matrix or provide values for precision, recall, specificity or f1.
